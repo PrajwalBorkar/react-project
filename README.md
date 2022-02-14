@@ -1,2 +1,2 @@
 # react-project
-TO DO app using React
+TODO app using React
