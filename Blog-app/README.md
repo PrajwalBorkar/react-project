@@ -1,4 +1,4 @@
-Blog-App using React
+# Blog-App using React
 ![Screenshot (438)](https://user-images.githubusercontent.com/48290911/156037426-181e0e3b-1282-4036-bfec-254da96cc707.png)
 
 # Getting Started with Create React App
